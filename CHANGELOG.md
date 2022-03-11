@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.2.3](https://github.com/baygeldin/tantiny/compare/v0.2.2...v0.2.3) (2022-03-11)
+
+
+### Bug Fixes
+
+* Create the folder at index path when it doesn't exist ([c9446b7](https://github.com/baygeldin/tantiny/commit/c9446b7e949aad40de9ce179707a88915682055c))
+
 ### [0.2.2](https://github.com/baygeldin/tantiny/compare/v0.2.1...v0.2.2) (2022-03-07)
 
 
